@@ -1,0 +1,32 @@
+[
+
+    {
+
+        "name": "Huambo",
+        "location": "Huambo",
+        "image": "assets/image/Huambo_Morro-do-moco.jpg",
+        "price": 10000,
+        "about": " Vem Conhecer o Huambo a suas culturas e  as suas melhores  refeições, já ouviu falar sobre o planalto central? compre o seu bilhete e vem explora essa terra linda",
+        "length": 15
+
+    },
+
+    {
+        "name": "Malanje",
+        "location": "North Sea",
+        "image": "assets/image/Malanje.jpg",
+        "price": 10000,
+        "about": " Vem Conhecer Malanje as suas culturas e  as suas melhores  refeições, já ouviu falar sobre as Quedas de Kalandulas? compre o seu bilhete e vem explora essa terra linda.",
+        "length": 35
+
+    },
+
+    {
+        "name": "Benguela",
+        "location": "Austria",
+        "image": "assets/image/Benguela.jpg",
+        "price": 10000,
+        "about": " Vem Conhecer  Benguela e suas culturas e  as suas melhores  refeições, já ouviu falar sobre a Baia Azul? compre o seu bilhete e vem explora essa terra linda",
+        "length": 5
+    }
+]
